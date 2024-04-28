@@ -1,0 +1,22 @@
+{
+  "name": "AudioSdkTob",
+  "version": "0.1.0",
+  "summary": "A short description of AudioSdkTob.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lifuyi/AudioSdkTob",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lifuyi": "lifuyi@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/lifuyi/AudioSdkTob.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AudioSdkTob/Classes/**/*"
+}

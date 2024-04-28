@@ -1,0 +1,6 @@
+framework module AudioSdkTob {
+  umbrella header "AudioSdkTob-umbrella.h"
+
+  export *
+  module * { export * }
+}

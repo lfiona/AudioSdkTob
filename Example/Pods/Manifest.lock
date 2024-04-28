@@ -1,0 +1,16 @@
+PODS:
+  - AudioSdkTob (0.1.0)
+
+DEPENDENCIES:
+  - AudioSdkTob (from `../`)
+
+EXTERNAL SOURCES:
+  AudioSdkTob:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AudioSdkTob: 2275b789b630356f3ded0e27684a4a9cf002f102
+
+PODFILE CHECKSUM: 0db61bcac785bc4ec82ea86d24cd94d4e2f46ed0
+
+COCOAPODS: 1.11.3

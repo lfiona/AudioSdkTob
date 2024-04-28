@@ -1,0 +1,6 @@
+framework module Pods_AudioSdkTob_Tests {
+  umbrella header "Pods-AudioSdkTob_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
